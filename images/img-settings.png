@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-Us">
+<head>
+    <script type="bfc72a298955b4f43825a670-text/javascript">
+        dataLayer = [];
+    </script>
+
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="dO8ZOsl_RsgTloRq0pwrHij_tXAj2hrYueNrDqIYAaA3lldI-h4ym0Xszhqi0EpIGa_zHGmfRb6LhQU_kWJk6A==">
+    <title>Not Found (#404)</title>
+    <link href="/assets/16823ef7/css/bootstrap.css" rel="stylesheet">
+<link href="/css/site_v1.css" rel="stylesheet">
+<link href="/css/all.min.css" rel="stylesheet">
+<script type="bfc72a298955b4f43825a670-text/javascript">var createDietUserUrl = "\/profiles\/create";</script>
+    </head>
+
+<body>
+
+
+<div class="cover-get-diet  container-fluid">
+    <div class="keto-logo-row">
+        <span class="keto-logo"></span>
+    </div>
+    <div class="clearfix"></div>
+<div class="site-error">
+    <div class="page-centered">
+        <div class="mt-3">
+            <h1>Not Found (#404)</h1>
+        </div>
+
+
+        <div class="alert alert-danger">
+            Page not found.        </div>
+
+        <p>
+            The above error occurred while the Web server was processing your request.
+        </p>
+        <p>
+            Please contact us if you think this is a server error. Thank you.
+        </p>
+    </div>
+
+
+</div>
+
+<div class="footer text-center">
+    <ul class="footer-links">
+        <li><a href="/privacy" target="_blank">Privacy</a></li>
+        <li><a href="/site/terms" target="_blank">Terms & Conditions</a></li>
+        <!--  <li></li>-->
+        <li><a href="/affiliates" target="_blank">Affiliates</a></li>
+    </ul>
+
+
+</div>
+</div>
+
+<script src="/assets/3c9c5e0a/javascripts/md5.js" type="bfc72a298955b4f43825a670-text/javascript"></script>
+<script src="/assets/3c9c5e0a/javascripts/lajax.js" type="bfc72a298955b4f43825a670-text/javascript"></script>
+<script src="/assets/edd32ffd/jquery.js" type="bfc72a298955b4f43825a670-text/javascript"></script>
+<script src="/assets/9210ab92/yii.js" type="bfc72a298955b4f43825a670-text/javascript"></script>
+<script src="/assets/16823ef7/js/bootstrap.js" type="bfc72a298955b4f43825a670-text/javascript"></script>
+<script type="bfc72a298955b4f43825a670-text/javascript">jQuery(function ($) {
+
+/*
+| ==========================================================
+| Preloader
+| ========================================================== */
+jQuery(window).on("load",function() {
+ //   $('#preloader').fadeOut('100');
+});
+
+
+
+
+});</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="bfc72a298955b4f43825a670-|49" defer=""></script></body>
+
+</html>
